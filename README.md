@@ -18,5 +18,6 @@
  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 
-</div>
+</div><br/>
 
+Atualmente fazendo o curso de Analise e desenvolvimento de Sistemas na PUC Betim.
